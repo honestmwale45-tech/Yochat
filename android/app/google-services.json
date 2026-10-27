@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880141696965",
+    "project_id": "yochat-9ef5a",
+    "storage_bucket": "yochat-9ef5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880141696965:android:d00f7727577dcf68ae55ac",
+        "android_client_info": {
+          "package_name": "com.yochat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACipRamIF6cjv7Js4bn8poqV5UR9T7JNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
